@@ -1,3 +1,4 @@
 author: {
-  name: Nguyễn Hưng Khánh
+  name: Nguyễn Hưng Khánh,
+  age: 23,
 }
