@@ -1,3 +1,4 @@
 console.log('Hello world');
-console.log("My name's Khanh")
-console.log('jashdkjads')
+console.log("My name's Khanh");
+console.log("I'm 23 years old");
+console.log("askdhaksjhd ")
