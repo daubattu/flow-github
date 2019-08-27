@@ -1,1 +1,3 @@
-author: Nguyễn Hưng Khánh
+author: {
+  name: Nguyễn Hưng Khánh
+}
